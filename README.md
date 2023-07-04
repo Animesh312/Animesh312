@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Animesh Wankhede</h1>
-<h3 align="center">A passionate data science and App development enthusiast</h3>
+<h3 align="center">A passionate IOT and Machine learning Enthusisat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animesh312&label=Profile%20views&color=0e75b6&style=flat" alt="animesh312" /> </p>
 
